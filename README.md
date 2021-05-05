@@ -1,10 +1,10 @@
 clone the git repo
 
 
-type cd asqt_word_search/excel
+type **cd asqt_word_search/excel**
 
 
-install package by  npm install
+install package by  **npm install**
 
 
-then run server by npm start
+then run server by **npm start**
